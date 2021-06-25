@@ -3,6 +3,7 @@
 
 # requires: pydub numpy requests
 
+import ffmpeg
 import io
 import math
 import re
